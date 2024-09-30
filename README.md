@@ -19,3 +19,4 @@ python ./circle_circle_collisions/flick_mechanism_sim.py
 ```
 
 You can hold the left click on a circle and drag it around, or you can hold the right click on a circle, drag your mouse away from the circle, and release the right click. This will flick the circle.
+<video src='https://github.com/user-attachments/assets/c68da891-88e0-4fc0-87ed-570392a4ccbd' width=180/>
