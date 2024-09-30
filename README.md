@@ -1,10 +1,9 @@
 # 2D Game Engine Mechanics
 
 An attempt to implement 2D engine game mechanics from scratch (physics and collisions).
-
 Currently, there's only a basic implementation of circular object collisions.
-
 <video src='https://github.com/user-attachments/assets/c68da891-88e0-4fc0-87ed-570392a4ccbd' width=180/>
+  
 ## How to run
 
 Install the dependencies in `requirements.txt`:
